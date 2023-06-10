@@ -1,0 +1,19 @@
+{
+  "name": "13-refactor-app-notas",
+  "version": "1.0.0",
+  "description": "Refactorizacion de App-Notas sin el modulo de Colors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioHernandez3521/App-notas-consola.git"
+  },
+  "author": "Julio Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioHernandez3521/App-notas-consola/issues"
+  },
+  "homepage": "https://github.com/JulioHernandez3521/App-notas-consola#readme"
+}
